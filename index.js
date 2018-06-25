@@ -1,5 +1,5 @@
 function Objects() {
-  recipes = new Object();
+  var recipes = new Object();
 }
 
 function updateObjectWithKeyAndValue(obj, key, value) {
